@@ -43,7 +43,7 @@ Run in minimised mode (excludes full response): ```python3 tenanthunter.py -mt e
 This is to be used for educational purposes only blah blah (insert boilerplate shite here)
 
 # License
-This code was proudly written and published under the <a href=https://plusnigger.org>+NIGGER license</a>
+This code was proudly written and published under the <a href=https://plusnigger.org>+NIGGER license</a>, a modified version of Daddy Stallmans <a href="https://www.gnu.org/licenses/gpl-3.0.txt">GPL v3 license</a>
 
 # Credits
-All work was done by me, Lodzie Kotekya
+All work was done by me, Lodzie Kotekya. You can find me on <a href="https://t.me/lodzie>Telegram</a>
