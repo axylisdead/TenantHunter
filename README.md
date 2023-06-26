@@ -4,10 +4,10 @@
 TenantHunter is a small script to resolve domains to Azure AD tenants (and OAuth login portals)
 It is incredibly useful for pentesting companies or governments powered by the Azure ecosystem
 
-Features
-- Resolves domain to tenant ID
-- Resolves tenant ID to OAuth login portal
-- More upcoming features but for now that's it
+Features:
+- <b>Resolves domain to tenant ID</b>
+- <b>Resolves tenant ID to OAuth login portal</b>
+- <b>More upcoming features but for now that's it</b>
 
 # Requirements
 Python 3
