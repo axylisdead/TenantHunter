@@ -1,5 +1,7 @@
 # TenantHunter
 
+![image](https://github.com/axylisdead/TenantHunter/assets/135433130/70323c27-1dac-4ace-bb8b-6cf3d2b61e4a)
+
 # Description
 TenantHunter is a small script to resolve domains to Azure AD tenants (and OAuth login portals)
 It is incredibly useful for pentesting companies or governments powered by the Azure ecosystem
